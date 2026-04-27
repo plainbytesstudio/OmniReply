@@ -49,7 +49,7 @@ Whether you are managing social media accounts (Reddit, Twitter, Facebook), enga
 
 OmniReply is distributed as a pre-compiled Windows application. 
 
-1. **Microsoft Store:** (Coming Soon) Search for "OmniReply" in the Microsoft Store for easy installation and automatic updates.
+1. **Microsoft Store:** Microsoft Store: https://apps.microsoft.com/detail/9N9GDZPV40XR
 
 
 
