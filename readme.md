@@ -22,7 +22,7 @@
 
 Whether you are managing social media accounts (Reddit, Twitter, Facebook), engaging in e-commerce customer service, or simply looking for a faster way to communicate, OmniReply streamlines your workflow with intelligence and speed.
 
----
+
 
 ## ✨ Key Features
 
@@ -35,7 +35,7 @@ Whether you are managing social media accounts (Reddit, Twitter, Facebook), enga
     - **Local Storage:** Profiles, rules, and history logs stay on your hard drive.
 - **Modern UI:** A Windows 11 Fluent Design interface with Mica/Acrylic effects and a non-intrusive floating mode.
 
----
+
 
 ## 🚀 How It Works
 
@@ -51,7 +51,7 @@ OmniReply is distributed as a pre-compiled Windows application.
 
 1. **Microsoft Store:** (Coming Soon) Search for "OmniReply" in the Microsoft Store for easy installation and automatic updates.
 
----
+
 
 ## 🔐 Privacy & Security
 
@@ -60,7 +60,7 @@ OmniReply is built with transparency in mind.
 - No telemetry or usage data is collected by PlainBytes Studio.
 - For more details, please read our [Privacy Policy](PRIVACY.md).
 
----
+
 
 ## ⚙️ Technical Notes
 
@@ -68,7 +68,7 @@ OmniReply is built with transparency in mind.
 - Uses Win32 clipboard listener (AddClipboardFormatListener)
 - Stateless API requests (no conversation history)
 
----
+
 
 ## 📜 License & Terms
 
