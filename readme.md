@@ -49,8 +49,7 @@ Whether you are managing social media accounts (Reddit, Twitter, Facebook), enga
 
 OmniReply is distributed as a pre-compiled Windows application. 
 
-1. **GitHub Releases:** Download the latest `.msix` or `.zip` from the [Releases](https://github.com/plainbytesstudio/OminReply/releases) page.
-2. **Microsoft Store:** (Coming Soon) Search for "OmniReply" in the Microsoft Store for easy installation and automatic updates.
+1. **Microsoft Store:** (Coming Soon) Search for "OmniReply" in the Microsoft Store for easy installation and automatic updates.
 
 ---
 
@@ -79,7 +78,7 @@ As this is a proprietary product, the GitHub repository is used for **documentat
 
 - **Bug Reports:** Please open a [GitHub Issue](https://github.com/plainbytesstudio/OminReply/issues).
 - **Feature Requests:** Feel free to suggest new models or platform rules via Issues.
-- **Official Website:** [https://plainbytes.net/](https://plainbytes.net/)
+- **Official Website:** [https://plainbytesstudio.github.io/products/OmniReply](https://plainbytesstudio.github.io/products/OmniReply)
 
 ---
 <p align="center">
