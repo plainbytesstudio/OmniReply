@@ -78,7 +78,7 @@ OmniReply is built with transparency in mind.
 - **Usage:** You are free to download and use the application according to the provided terms. 
 - **Restrictions:** Redistribution, de-compilation, or reverse-engineering of the binary files is strictly prohibited.
 
----
+
 
 ## 🛠 Support & Feedback
 
