@@ -1,6 +1,6 @@
 # Privacy Policy for OmniReply
 
-**Effective Date:** October 2026  
+**Effective Date:** March 2026  
 **Developer:** PlainBytes Studio  
 **GitHub:** [https://github.com/plainbytesstudio/OminReply](https://github.com/plainbytesstudio/OminReply)
 
