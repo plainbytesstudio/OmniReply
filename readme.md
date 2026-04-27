@@ -1,13 +1,15 @@
+# OmniReply
+
 <p align="center">
   <img src="./Assets/OmniReply.png" width="128" height="128" alt="OmniReply Logo">
 </p>
 
 <p align="center">
-  <strong>The Ultimate AI Clipboard Assistant for Social Media & High-Speed Communication.</strong>
+  <strong>A Clipboard-Driven AI Assistant for Fast Social Media Replies.</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/plainbytesstudio/OminReply/releases"><img src="https://img.shields.io/github/v/release/plainbytesstudio/OminReply?style=flat-square" alt="Latest Release"></a>
+  <a href="https://github.com/plainbytesstudio/OmniReply/releases"><img src="https://img.shields.io/github/v/release/plainbytesstudio/OmniReply?style=flat-square" alt="Latest Release"></a>
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-blue?style=flat-square" alt="Platform">
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="License">
 </p>
@@ -27,7 +29,7 @@ Whether you are managing social media accounts (Reddit, Twitter, Facebook), enga
 - **Smart Clipboard Monitoring:** Instantly detects and cleans text from your clipboard using native Win32 APIs.
 - **Context-Aware Engine (Meta-Prompting):** Combine **Personas** (Novice, Pro, OP), **Scenes** (Reddit, Twitter, TikTok), and **Objectives** (Recommend, Support, Rebuttal) for the perfect reply.
 - **Multi-Model Integration:** Direct support for OpenAI (GPT-4o), Google Gemini (1.5 Pro/Flash), xAI Grok, and DeepSeek.
-- **Human-like Write-back:** Simulates hardware-level keyboard input with random delays to ensure compatibility and avoid platform automation detection.
+- **Human-like Write-back:** Simulates hardware-level keyboard input with random delays to ensure compatibility and to better mimic natural typing behavior.
 - **Privacy-First Architecture:** 
     - **No Intermediary Servers:** Your data goes directly from your machine to the AI provider.
     - **Local Storage:** Profiles, rules, and history logs stay on your hard drive.
@@ -74,7 +76,7 @@ OmniReply is built with transparency in mind.
 
 As this is a proprietary product, the GitHub repository is used for **documentation, distribution, and issue tracking**.
 
-- **Bug Reports:** Please open a [GitHub Issue](https://github.com/plainbytesstudio/OminReply/issues).
+- **Bug Reports:** Please open a [GitHub Issue](https://github.com/plainbytesstudio/OmniReply/issues).
 - **Feature Requests:** Feel free to suggest new models or platform rules via Issues.
 - **Official Website:** [https://plainbytesstudio.github.io/products/OmniReply](https://plainbytesstudio.github.io/products/OmniReply)
 
