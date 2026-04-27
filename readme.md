@@ -18,9 +18,9 @@
 
 ## 🌟 What is OmniReply?
 
-**OmniReply** is a lightweight, privacy-focused Windows desktop tool designed to bridge the gap between your clipboard and advanced AI models. It captures text from your clipboard, generates context-aware responses based on your predefined personas and platform rules, and **types them back** into any active window as if you were typing them yourself.
+**OmniReply** is a lightweight, privacy-focused Windows desktop tool that turns clipboard content into AI-generated replies. It captures text from your clipboard, generates context-aware responses based on your predefined personas and platform rules, and **types them back** into any active window as if you were typing them yourself.
 
-Whether you are managing social media accounts (Reddit, Twitter, Facebook), engaging in e-commerce customer service (Xianyu), or simply looking for a faster way to communicate, OmniReply streamlines your workflow with intelligence and speed.
+Whether you are managing social media accounts (Reddit, Twitter, Facebook), engaging in e-commerce customer service, or simply looking for a faster way to communicate, OmniReply streamlines your workflow with intelligence and speed.
 
 ---
 
@@ -33,7 +33,7 @@ Whether you are managing social media accounts (Reddit, Twitter, Facebook), enga
 - **Privacy-First Architecture:** 
     - **No Intermediary Servers:** Your data goes directly from your machine to the AI provider.
     - **Local Storage:** Profiles, rules, and history logs stay on your hard drive.
-- **Modern UI:** A beautiful Windows 11 Fluent Design interface with Mica/Acrylic effects and a non-intrusive floating ball mode.
+- **Modern UI:** A Windows 11 Fluent Design interface with Mica/Acrylic effects and a non-intrusive floating mode.
 
 ---
 
@@ -59,6 +59,14 @@ OmniReply is built with transparency in mind.
 - Your API Keys are stored locally and encrypted.
 - No telemetry or usage data is collected by PlainBytes Studio.
 - For more details, please read our [Privacy Policy](PRIVACY.md).
+
+---
+
+## ⚙️ Technical Notes
+
+- Built with .NET / WPF
+- Uses Win32 clipboard listener (AddClipboardFormatListener)
+- Stateless API requests (no conversation history)
 
 ---
 
