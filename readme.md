@@ -1,5 +1,3 @@
-# OmniReply
-
 <p align="center">
   <img src="./Assets/OmniReply.png" width="128" height="128" alt="OmniReply Logo">
 </p>
