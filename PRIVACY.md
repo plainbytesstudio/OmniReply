@@ -2,7 +2,7 @@
 
 **Effective Date:** March 2026  
 **Developer:** PlainBytes Studio  
-**GitHub:** [https://github.com/plainbytesstudio/OminReply](https://github.com/plainbytesstudio/OminReply)
+**GitHub:** [https://github.com/plainbytesstudio/OmniReply](https://github.com/plainbytesstudio/OmniReply)
 
 At **PlainBytes Studio**, we prioritize your privacy. **OmniReply** is built as a client-side tool to ensure you have full control over your data.
 
@@ -40,7 +40,7 @@ We may update this policy to reflect changes in our practices or for other opera
 
 ### 8. Contact
 For privacy-related inquiries, please contact us via:
-- **GitHub Issues:** [OmniReply Issues](https://github.com/plainbytesstudio/OminReply/issues)
+- **GitHub Issues:** [OmniReply Issues](https://github.com/plainbytesstudio/OmniReply/issues)
 - **Website:** [https://plainbytesstudio.github.io/products/OmniReply](https://plainbytesstudio.github.io/products/OmniReply)
 
 ---
