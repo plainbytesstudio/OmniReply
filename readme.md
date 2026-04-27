@@ -58,7 +58,7 @@ OmniReply is distributed as a pre-compiled Windows application.
 OmniReply is built with transparency in mind.
 - Your API Keys are stored locally and encrypted.
 - No telemetry or usage data is collected by PlainBytes Studio.
-- For more details, please read our [Privacy Policy](PRIVACY_POLICY.md).
+- For more details, please read our [Privacy Policy](PRIVACY.md).
 
 ---
 
