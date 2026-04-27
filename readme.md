@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/License-Proprietary-red?style=flat-square" alt="License">
 </p>
 
----
+
 
 ## 🌟 What is OmniReply?
 
@@ -43,7 +43,7 @@ Whether you are managing social media accounts (Reddit, Twitter, Facebook), enga
 2. **Generate:** Open the OmniReply panel, select your target **Scene** and **Persona**.
 3. **Write-back:** Click the **Write-back** button. OmniReply will hide itself and "type" the AI-generated content into your target input field.
 
----
+
 
 ## 📦 Installation
 
